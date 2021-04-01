@@ -59,7 +59,7 @@ public class Main {
   }
 }
 
-В качестве тестовых данных использовались данные  сайта-генератора банковских карт [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html) 
+В качестве тестовых данных использовались данные сайта-генератора банковских карт [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html) 
 *American Express 370085890868840
 *JCB 3535650149078171279
 *Diners Club - International 36558770958085

@@ -1,6 +1,4 @@
-# Ошибка при тестировании валидации номеров банковских карт банков JCB, American Express, Diners CLub - International 
-
-## Краткое описание
+# Отчет о тестировании приложения Credit Card Number Validator
 
 31.03.2021 было проведено функциональное тестирование приложения Credit Card Number Validator
 На тестирование затрачено: 1 час

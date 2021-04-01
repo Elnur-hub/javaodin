@@ -12,7 +12,7 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-*Тестовый сценарий:
+* Тестовый сценарий:
 
 1. Использовать представленный ниже код
 2. Ввести в строке #4 числа, сгенерированные сайтом [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html), подставлять номера банковских карт JCB,American Express, Diners CLub-International 

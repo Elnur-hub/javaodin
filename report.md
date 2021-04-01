@@ -1,4 +1,4 @@
-# Ошибка при тестировании валидации номера банковской карты банка JCB 
+# Ошибка при тестировании валидации номеров банковских карт банков JCB, American Express, Diners CLub - International 
 
 31.03.2021 было проведено функциональное тестирование Credit Card Number Validator
 На тестирование затрачено: 1 час
@@ -15,7 +15,7 @@
 *Тестовый сценарий:
 
 1. Использовать представленный ниже код
-2. Ввести в строке #4 числа, сгенерированные сайтом [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html) 
+2. Ввести в строке #4 числа, сгенерированные сайтом [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html), подставлять банковские карты JCB,   American Express, Diners CLub - International 
 3. Воспроизвести код нажатием на Run или CTRL+SHIFT+F10
 4. Посмотреть результаты проведенных запусков 
 

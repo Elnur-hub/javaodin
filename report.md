@@ -6,7 +6,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* Приложение не реагирует на значения больше или меньше 16 символов. [скриншот] (https://sun9-9.userapi.com/impf/DmFA7Mgv4tE_5eqXfN4GtbdaejfiI401ti08ow/Z2iOMuEyNgo.jpg?size=916x398&quality=96&sign=fb262a847f87c2ece1aa04d79e4a3d42&type=album)
+* Приложение не реагирует на значения больше или меньше 16 символов. [скриншот](https://sun9-9.userapi.com/impf/DmFA7Mgv4tE_5eqXfN4GtbdaejfiI401ti08ow/Z2iOMuEyNgo.jpg?size=916x398&quality=96&sign=fb262a847f87c2ece1aa04d79e4a3d42&type=album)
 
 ## Описание процесса тестирования
 
@@ -21,6 +21,7 @@
 
 Код:
 
+```
 public class Main {
   public static void main(String[] args) {
     // TODO: подставлять номер карты нужно сюда между двойными кавычками, без пробелов
@@ -58,6 +59,8 @@ public class Main {
     return (result != 0) && (result % 10 == 0);
   }
 }
+```
+
 
 В качестве тестовых данных использовались данные сайта-генератора банковских карт [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 *American Express 370085890868840
